@@ -1,4 +1,6 @@
-# Hello World! I'm Anastasiia, a Software Engineer 👋
+<img src="github_banner.png" alt="GitHub Banner" width="100%">
+
+# Hello World!🌍 <br />I'm Anastasiia, a Software Engineer from Canada 👋
 
 🎓 Bachelor's Degree in Computer Science with a specialization in Artificial Intelligence<br>
 👨🏼‍🎓 Software Engineering Diploma at BrainStation<br>
